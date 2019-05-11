@@ -1,0 +1,20 @@
+{
+  "name": "actsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_acts.js",
+  "scripts": {
+    "start": "node index_acts.js"
+  },
+  "author": "Abhin S Lingamaneni",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0"
+  }
+}

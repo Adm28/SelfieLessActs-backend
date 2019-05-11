@@ -1,0 +1,17 @@
+
+
+<orch>
+
+<db-container>abhin99/mysql-node</db-container>
+
+<db-container-port>3306</db-container-port>
+
+<main-container>abhin99/acts</main-container>
+
+<start-port>8000</start-port>
+
+<timer-duration>20</timer-duration>
+
+<heartbeat>1</heartbeat>
+
+</orch>
